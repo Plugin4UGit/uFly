@@ -1,0 +1,5 @@
+c:\users\tadhg\documents\visual studio 2017\Projects\uFly\uFly\bin\Debug\uFly.dll
+c:\users\tadhg\documents\visual studio 2017\Projects\uFly\uFly\bin\Debug\uFly.pdb
+c:\users\tadhg\documents\visual studio 2017\Projects\uFly\uFly\obj\Debug\uFly.csprojResolveAssemblyReference.cache
+c:\users\tadhg\documents\visual studio 2017\Projects\uFly\uFly\obj\Debug\uFly.dll
+c:\users\tadhg\documents\visual studio 2017\Projects\uFly\uFly\obj\Debug\uFly.pdb
